@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+airflow-docker/logs/
+airflow-docker/plugins
+airflow-docker/*.pid
